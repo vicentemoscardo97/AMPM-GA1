@@ -1,0 +1,2 @@
+A text file. Whatever, can be anything. It’s also valid to compose a new file
+by hand.
